@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Bhjones45/Bhjones45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [![Brett's github stats](https://github-readme-stats.vercel.app/api?username=bhjones45&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave)
 ](https://github.com/bhjones45/github-readme-stats)
+
+<!--
+**Bhjones45/Bhjones45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Brett's github stats](https://github-readme-stats.vercel.app/api?username=bhjones45&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave)
-](https://github.com/bhjones45/github-readme-stats)
 -->
