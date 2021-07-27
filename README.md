@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Brett's github stats](https://github-readme-stats.vercel.app/api?username=bhjones45&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave)
+[![Brett's github stats](https://github-readme-stats.vercel.app/api?username=bhjones45&count_private=true&include_all_commits=true&show_icons=true&theme=shades-of-purple)
 ](https://github.com/bhjones45/github-readme-stats)
 
 <!--
